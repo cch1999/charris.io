@@ -3,7 +3,7 @@ title:          "DiffSBDD: Structure-based Drug Design with Equivariant Diffusio
 date:           2022-12-01 00:01:00 +0800
 selected:       true
 pub:            "MLSB Workshop @ NeurIPS"
-pub_pre:      'Under review at Nature Computational Science'
+pub_pre:      'Under review at Nature Computational Science '
 # pub_post:       'Under review at Nature Computational Science'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub_date:       "2022"
