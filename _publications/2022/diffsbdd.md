@@ -4,7 +4,7 @@ date:           2022-12-01 00:01:00 +0800
 selected:       true
 pub:            "MLSB Workshop @ NeurIPS"
 # pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
+pub_post:       'Under review at Nature Computational Science'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub_date:       "2022"
 
@@ -13,8 +13,8 @@ abstract: >-
 cover:          https://miro.medium.com/v2/resize:fit:1400/1*YVAA3CzJzvDrk_XvMXWbMw.png
 authors:
   - Arne Schneuing**
-  - Yuanqi Du*
   - Charles Harris*
+  - Yuanqi Du*
   - Arian Jamasb
   - Ilia Igashov
   - Weitao Du
