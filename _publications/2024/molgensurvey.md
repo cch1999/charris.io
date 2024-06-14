@@ -16,6 +16,7 @@ authors:
   - Arian R. Jamasb
   - Jeff Guo
   - Tianfan Fu
+  - Charles Harris
   - Yingheng Wang
   - Chenru Duan
   - Pietro Liò
