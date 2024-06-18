@@ -1,6 +1,6 @@
 ---
 title:          "RNA-FrameFlow: Flow Matching for de novo 3D RNA Backbone Design"
-date:           2024-06-18 00:01:00 +0800
+date:           2024-06-16 00:01:00 +0800
 selected:       false
 pub:            "ICML 2024 AI for Science Workshop"
 # pub_pre:        "Submitted to "
