@@ -22,5 +22,6 @@ authors:
   - Bryan Hooi
   - Pietro Liò
 links:
-  #Paper: https://www.nature.com/articles/s42256-024-00843-5
+  Paper: https://openreview.net/forum?id=YzjHCdZM2h&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2024%2FWorkshop%2FAI4Science%2FAuthors%23your-submissions)
+  Code: https://github.com/rish-16/rna-backbone-design
 ---
