@@ -19,7 +19,7 @@ authors:
   - Kieran Didi
   - Simon Mathis
   - Charles Harris
-  - Dominic Hall
+  - Tian Tang
   - Jianlin Cheng
   - Pietro Lió
   - Tom Blundell
