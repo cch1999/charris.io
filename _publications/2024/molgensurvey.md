@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
  Here we provide a comprehensive overview of the current state of the art in molecular design using machine learning models as well as important design decisions, such as the choice of molecular representations, generative methods and optimization strategies. Subsequently, we present a collection of practical applications in which the reviewed methodologies have been experimentally validated, encompassing both academic and industrial efforts. Finally, we draw attention to the theoretical, computational and empirical challenges in deploying generative machine learning and highlight future opportunities to better align such approaches to achieve realistic drug discovery end points.
-cover: https://miro.medium.com/v2/resize:fit:1400/1*YVAA3CzJzvDrk_XvMXWbMw.png
+cover: assets/images/covers/survey.png
 authors:
   - Yuanqi Du
   - Arian R. Jamasb
