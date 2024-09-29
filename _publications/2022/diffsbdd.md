@@ -3,10 +3,10 @@ title:          "DiffSBDD: Structure-based Drug Design with Equivariant Diffusio
 date:           2022-12-01 00:01:00 +0800
 selected:       true
 pub:            "MLSB Workshop @ NeurIPS"
-pub_pre:      'Under review at Nature Computational Science '
+pub_pre:      'Accpeted at Nature Computational Science (not yet in print)'
 # pub_post:       'Under review at Nature Computational Science'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
-pub_date:       "2022"
+pub_date:       "2024"
 
 abstract: >-
   DiffSBDD was one of the first equivariant diffusion models for structure-based drug design.
