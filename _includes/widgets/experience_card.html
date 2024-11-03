@@ -45,26 +45,24 @@
                         {% endif %}
                     </div>
                     {% endif %}
-                    {% if site.data.profile.awards %}
                     <div class="col-lg mx-2">
+                        {% if site.data.profile.awards %}
                         <h6>Honors & Awards</h6>
                         <ul class="list small pl-3 mb-1">
                             {% for item in site.data.profile.awards %}
                             <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
                             {% endfor %}
                         </ul>
-                    </div>
-                    {% endif %}
-                    {% if site.data.profile.media %}
-                    <div class="col-lg mx-2">
+                        {% endif %}
+                        {% if site.data.profile.media %}
                         <h6>Media</h6>
                         <ul class="list small pl-3 mb-1">
                             {% for item in site.data.profile.media %}
                             <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
                             {% endfor %}
                         </ul>
+                        {% endif %}
                     </div>
-                    {% endif %}
                 </div>
 
             </div>
