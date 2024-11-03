@@ -68,9 +68,9 @@ media:
 - name: "UK Foundation for Science and Technology Podcast"
   date: 2024
   link: https://www.foundation.org.uk/Podcasts/2024/Charles-Harris-PhD-Protein-folding-and-machine-lea
-- name: "Youtube"
+- name: "Youtube Video on AlphaFold"
   date: 2024
-  link: https://www.foundation.org.uk/Podcasts/2024/Charles-Harris-PhD-Protein-folding-and-machine-lea
-- name: "iGEM Podcast"
+  link: https://www.youtube.com/watch?v=0ZxpZKtBkdA
+- name: "iGEM Synthetic Biology Podcast"
   date: 2021
-  link: https://www.foundation.org.uk/Podcasts/2024/Charles-Harris-PhD-Protein-folding-and-machine-lea
+  link: https://podcast.igem.org/episode/htsb-s1e4

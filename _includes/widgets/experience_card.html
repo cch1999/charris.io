@@ -58,7 +58,8 @@
                         <h6>Media</h6>
                         <ul class="list small pl-3 mb-1">
                             {% for item in site.data.profile.media %}
-                            <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
+                            <li><a href="{{ item.link }}"></a>{{ item.name }}</a> <em class="float-right">{{ item.date
+                                    }}</em></li>
                             {% endfor %}
                         </ul>
                         {% endif %}
