@@ -18,6 +18,6 @@ authors:
   - Emmanuel Bengio
   - Pietro Liò
 links:
-  Paper: https://arxiv.org/pdf/2405.01155v1
+  Paper: https://arxiv.org/abs/2405.01155
   Code: https://github.com/mirunacrt/synflownet
 ---
