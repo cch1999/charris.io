@@ -1,5 +1,5 @@
 ---
-title:          "SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways"
+title:          "SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints"
 date:           2024-05-01 00:01:00 +0800
 selected:       true
 pub:            "GEM Bio Workshop @ ICLR"
@@ -14,6 +14,10 @@ cover:          assets/images/covers/synflownet.png
 authors:
   - Miruna Cretu
   - Charles Harris
+  - Ilia Igashov
+  - Arne Schneuing
+  - Marwin Segler
+  - Bruno Correia
   - Julien Roy
   - Emmanuel Bengio
   - Pietro Liò
